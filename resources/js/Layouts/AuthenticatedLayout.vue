@@ -113,7 +113,7 @@ const mainContentClasses = computed(() => {
             <div
                 class="flex items-center justify-center h-16 border-b border-gray-200 dark:border-gray-700 relative flex-shrink-0">
                 <span class="text-md font-semibold text-gray-800 dark:text-gray-200">
-                    Gincana 2025
+                    Gincana 2026
                 </span>
             </div>
 
